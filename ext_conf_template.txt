@@ -1,0 +1,13 @@
+  # cat=basic/enable; type=string; label=Path to database file:
+databaseFile = fileadmin/geolite/GeoLiteCity.dat
+
+  # cat=basic/enable; type=string; label=Domain for cross-domain-cookies (don't forget the dot at the beginning:
+cookieDomain = .mydomain.com
+
+  # cat=basic/enable; type=int; label=Timeout for caching GEOIP entries (in seconds):
+cacheTimeout = 604800
+
+  # cat=basic/enable; type=int; label=ID of the Storage Folder where all the territories are stored:
+storageFolderID = 2
+
+

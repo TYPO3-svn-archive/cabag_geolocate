@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'cabag_geocontent'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">CAB AG Geocontent</label>
+            <label index="tx_cabaggeolocate_territory">Territory</label>
+            <label index="tx_cabaggeolocate_territory.title">Title</label>
+            <label index="tx_cabaggeolocate_territory.country_initial">Country Initial (if territory is a country)</label>
+            <label index="tx_cabaggeolocate_territory.country">Country Initial (which country for this territory)</label>
+            <label index="tx_cabaggeolocate_territory.domains">Domains (comma separated)</label>
+            <label index="tx_cabaggeolocate_territory.coordinates">Coordinates</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tt_content.list_type_pi1">CAB AG Geocontent</label>
+            <label index="tx_cabaggeolocate_territory">Territorium</label>
+            <label index="tx_cabaggeolocate_territory.title">Titel</label>
+            <label index="tx_cabaggeolocate_territory.country_initial">Landinitialen (falls Territorium ein Land ist)</label>
+            <label index="tx_cabaggeolocate_territory.country">Landinitialen (welches Land gehört zu diesem Territorium)</label>
+            <label index="tx_cabaggeolocate_territory.domains">Domains (Komma separiert)</label>
+            <label index="tx_cabaggeolocate_territory.coordinates">Koordinaten</label>
+		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="tt_content.list_type_pi1">CAB AG Geocontent</label>
+            <label index="tx_cabaggeolocate_territory">Territoire</label>
+            <label index="tx_cabaggeolocate_territory.title">Titre</label>
+            <label index="tx_cabaggeolocate_territory.country_initial">Initiales du pays (si le territoire est un pays)</label>
+            <label index="tx_cabaggeolocate_territory.country">Initiales du pays (quel pays appartient à ce territoire)</label>
+            <label index="tx_cabaggeolocate_territory.domains">Domaine internet (valeurs séparées par virgules)</label>
+            <label index="tx_cabaggeolocate_territory.coordinates">Coordonnées géographiques</label>
+		</languageKey>
+	</data>
+</T3locallang>
